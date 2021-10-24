@@ -3,7 +3,7 @@ media_folder: static/images
 public_folder: /images
 backend:
   name: github
-  branch: master
+  branch: main 
   repo: pksinghus/lolcode
   open_authoring: true
 collections:
