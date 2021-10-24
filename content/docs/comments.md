@@ -1,8 +1,7 @@
 ---
-title: Comments
-weight: 2
+title: Comments Edited
+weight: 22
 ---
-
 *(from 1.1)*
 
 Single line comments are begun by `BTW`, and may occur either after a line of code, on a separate line, or following a line of code following a line separator (,).
@@ -11,10 +10,12 @@ All of these are valid single line comments:
 
 ```
 I HAS A VAR ITZ 12          BTW VAR = 12
+Code block changed
 ```
 
 ```
 I HAS A VAR ITZ 12,         BTW VAR = 12
+Again!!
 ```
 
 ```
