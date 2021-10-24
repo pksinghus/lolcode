@@ -1,6 +1,8 @@
 ---
 title: Comments Edited
 weight: 22
+bookToc: true
+bookHidden: true
 ---
 *(from 1.1)*
 
