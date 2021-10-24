@@ -2,7 +2,7 @@
 title: Comments Edited!
 weight: 22
 bookToc: true
-bookHidden: true
+bookHidden: false
 ---
 *(from 1.1)*
 
